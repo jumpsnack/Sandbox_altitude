@@ -142,4 +142,5 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
     public void onAccuracyChanged(Sensor sensor, int i) {
 
     }
+
 }
